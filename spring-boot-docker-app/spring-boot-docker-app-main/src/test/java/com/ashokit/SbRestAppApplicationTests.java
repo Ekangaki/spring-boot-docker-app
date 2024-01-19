@@ -1,4 +1,4 @@
-package com.ekangaki;
+package com.ashok;
 
 class SbRestAppApplicationTests {
 
